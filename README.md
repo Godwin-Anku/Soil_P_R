@@ -13,9 +13,8 @@ Thus, this software program is quite efficent for calculating and establishing t
 
 The soil includes all earth materials, organic and inorganic, occuring in the zone overlying the rock crust. 
 
-This system deals manifests the functionality of computing the soil phase relationship. To eradicate the complexities, errors and difficulties, the proposed system is
-developed. Calculating the soil phase relationship on paper introduces inaccuracies. The values may be inaccurate due to human error. Thus, the use of this software reduces
-or eliminates potential human error intruduced during calculations. This increases credibility and confidence in the values obtained. To reduce the faults "LunarGeo Soil Phase Software"
+This system deals manifests the functionality of computing the soil phase relationship. To eradicate the complexities, errors and difficulties, the proposed system is developed. Calculating the soil phase relationship on paper introduces inaccuracies. 
+The values may be inaccurate due to human error. Thus, the use of this software reduces or eliminates potential human error intruduced during calculations. This increases credibility and confidence in the values obtained. To reduce the faults "LunarGeo Soil Phase Software"
 has been developed. This seeks to highlight on how this technology has the potential od reducing the manual work load and generating accurate results from the pre-defined formulae.
 
 
@@ -23,3 +22,5 @@ The computations are accurate and less time-consuming.
 The data is modified per the requirement.
 It does not involve recording data on paper.
 Accuracy and efficiency are maintained.
+
+![soil_phase_block_diagram](https://github.com/Godwin-Anku/Soil_P_R/assets/69385774/25597d3a-43c9-433a-822c-1b97f5e5f871)
